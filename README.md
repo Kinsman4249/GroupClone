@@ -144,4 +144,4 @@ See `SECURITY.md`.
 
 ## License
 
-MIT
+See 'LICENSE'
